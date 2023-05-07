@@ -1,0 +1,2 @@
+npm install method-override
+npm install mongoose-delete
